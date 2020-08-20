@@ -1,0 +1,13 @@
+.movie-box{
+    width:345px;
+    height: 300px;
+    border-radius: 7px;
+    margin:5px;
+}
+.poster{
+    position: relative;
+    width: 342px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 7px;
+}
